@@ -1,0 +1,164 @@
+#div1{
+    width: 100%;
+    height: 30%;
+    background-color: rgb(0, 140, 255);
+    font-display: center;
+   
+}
+
+.para1{
+    background-color: rgb(0, 238, 255);
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-style: oblique;
+    margin-left: 20px;
+    font-size-adjust: initial;
+    width:500px;
+    height:100px; 
+    cursor: all-scroll;
+}
+
+.class1{
+    margin-top: -120px;
+    margin-left: 100px;
+}
+
+.img{
+    float:right;
+    width: 500px;
+    margin-top: -110px;margin-left: 100px; float:right;
+    height: 180px;
+}
+
+.container{
+    width: 300px;
+    height: 300px;
+    background-color: aquamarine;
+    margin-left: 50px;
+}
+
+.class4{
+    margin-left: 100px;
+     float:right;
+}
+
+.class5{
+    margin-left: 700px;
+}
+
+.container1{
+    width: 700px;
+    height: 350px;
+    background-color: aquamarine;
+    margin-right:150px;
+    float:right;
+    margin-top: -300px;
+    text-align: center;
+    border:2px solid black;
+    cursor: all-scroll;
+}
+
+#id4{
+    width:200px;
+    height: 40px;
+    background-color:rgb(255, 208, 0);
+    border:2px solid black;
+    margin-left: 250px;
+    cursor: all-scroll;
+}
+
+#id5{
+    width:200px;
+    height: 40px;
+    background-color:rgb(0, 128, 58);
+    border:2px solid black;
+    margin-left: 250px;
+    cursor: all-scroll;
+    
+}
+
+@media(max-width:1000px){
+    #div1{
+        width: 90%;
+        height: 70%;
+        background-color: rgb(0, 140, 255);
+        font-display: center;
+       
+    }
+
+    .para1{
+        background-color: rgb(0, 238, 255);
+        font-size: 20px;
+        font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+        font-style: oblique;
+        margin-left: 20px;
+        font-size-adjust: initial;
+        width:500px;
+        height:200px; 
+        cursor: all-scroll;
+    }
+
+    .class1{
+        margin-top: -120px;
+        margin-left: 100px;
+    }
+
+    .img{
+        float:right;
+        width: 500px;
+        margin-top: -110px;
+        height: 180px;
+    }
+
+    .container{
+        width: 500px;
+        height: 300px;
+        background-color: aquamarine;
+        
+    }
+
+    .container1{
+        width: 800px;
+        height: 350px;
+        background-color: aquamarine;
+        margin-right:150px;
+        float:right;
+        margin-top: 50px;
+        text-align: center;
+        
+    }
+
+    #id4{
+        width:200px;
+        height: 40px;
+        background-color:rgb(255, 208, 0);
+        border:2px solid black;
+        margin-left: 250px;
+    }
+
+    #id5{
+        width:200px;
+        height: 40px;
+        background-color:rgb(0, 128, 58);
+        border:2px solid black;
+        margin-left: 250px;
+    }
+
+    .class4{
+        margin-left: 50px;
+         float:right;
+    }
+
+    .class5{
+        margin-left: 500px;
+    }
+
+    body{
+        background-image: url("https://theiranproject.com/wp-content/uploads/2013/08/electricity.jpg")
+    }
+}
+
+body{
+    background-image: url("https://theiranproject.com/wp-content/uploads/2013/08/electricity.jpg")
+}
+
